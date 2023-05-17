@@ -1,0 +1,94 @@
+---
+title: "RMarkdownMartinLopez"
+author: "Martin Manuel Lopez Palomo"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# **¿Visión intrínseca o instrumental para conservar los borreguiles de Sierra Nevada?**
+## **Máster en Conservación, Gestión y Restauración de la Biodiversidad Universidad de Granada**
+
+Los borreguiles de Sierra Nevada son pastizales vivaces de escaso porte, densos y de intenso color verde, de suelos más o menos húmedos en entornos silíceos de alta montaña. Tienen gran interés botánico por su riqueza específica, su carácter relíctico y su elevada rareza y endemicidad (Guía HIC Andalucía, 2020).
+
+Estas comunidades vegetales suelen ser fragmentarias, dándose en estrechas franjas de altitud y siendo muy susceptibles a los factores ambientales y climáticos. La falta de conectividad de estos ecosistemas hace que las comunidades y especies vegetales sean muy vulnerables a la extinción porque no pueden responder mediante la redistribución latitudinal, sino que se desplazan altitudinalmente (García-Alix et al., 2017).
+
+La importancia y fragilidad de estos ecosistemas ha derivado en la selección de los borreguiles como indicador de procesos de cambio global (Aspizua et al., 2012), considerándose laboratorios naturales donde estudiar estos impactos (Kohler et al. 2014; Pérez-Luque et al., 2016).
+
+La necesidad de conservar y restaurar estos espacios naturales ha hecho resurgir un antiguo conflicto que parte de una pregunta aparentemente simple: ¿por qué conservamos la naturaleza? En los últimos años, las posturas ante este debate se han vuelto cada vez más encontradas entre quienes argumentan que la naturaleza debe protegerse por sí misma (valor intrínseco) y los que sostienen que también debemos salvar la naturaleza para ayudarnos a nosotros mismos (valor instrumental) (Tallis & Lubchenco, 2014).
+
+Ante este debate, se expone a continuación un análisis DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades) justificado sobre cada una de estas dos visiones, tomando como caso particular los anteriormente mencionados borreguiles de Sierra Nevada.
+
+![***Figura 1.*** Borreguiles en la base del pico Veleta, Sierra Nevada](C:\Users\marti\OneDrive\Documentos\MASTER\Ecoinformatica\RMarkdown\PicoVeleta.jpg)
+
+### **VISIÓN INTRÍNSECA**
+
+Un argumento contundente a favor de la visión intrínseca para la conservación de estos parajes radica en el desconocimiento actual de la importancia y función en los ecosistemas de un gran número de especies. Además, evaluar a las especies por su valor instrumental es difícil y siempre quedará incompleto (Gascon et al., 2015).
+
+Preservar la biodiversidad por si misma, y no por los servicios que pueden ofrecernos, ayudaría a proteger a todos aquellos organismos cuya “importancia” para las necesidades humanas no está del todo determinada ya que, a medida que estas investigaciones se llevan a cabo, siguen desapareciendo especies, perdiendo los beneficios conocidos y desconocidos que nos brindan. Además, evaluar el valor de las especies no solo depende de las propiedades de estas tal y como se entienden actualmente, sino también de los cambios en el medio ambiente y la sociedad a lo largo del tiempo (Gascon et al., 2015).
+
+Sin embargo, este enfoque ha acarreado problemas éticos que subyacen en las acciones de las personas. La biodiversidad no es la única entidad afectada por las acciones y políticas de conservación: la vida y los medios de subsistencia de las personas también penden de un hilo. Como resultado directo de la conservación, comunidades humanas han sido injustamente desplazadas y perturbadas para la creación de áreas protegidas (Santos, 2006). Claramente, la conservación también puede beneficiar a las personas, pero el hecho de que pueda perjudicarlas resalta la necesidad de prestar más atención al nexo entre la conservación y la sociedad humana (Kareiva & Marvier, 2012).
+
+Los vínculos demostrables entre las especies individuales y los servicios de los ecosistemas que son críticos para la humanidad deberían, como mínimo, eliminar la carga de probar la relevancia de las especies y dar paso a un enfoque inteligente basado en el principio de precaución (Gascon et al., 2015). Por tanto, es probable que la ciencia de la conservación que se centra en la biología diagnostique mal los problemas y llegue a soluciones mal concebidas (Kareiva & Marvier, 2012).
+
+En el lado positivo, esta visión intrínseca ha promovido la protección legal de los ecosistemas a lo largo de las décadas. En 2019 nueve sitios, que representan un área total de 6.052 km2, fueron admitidos a la Lista Verde de la UICN de Áreas Protegidas y Conservadas (UICN, 2019). Este hecho contrasta notablemente con la visión instrumental, ya que los conservacionistas impulsados por esta plantean que la naturaleza no se debería proteger por sí misma, sino solo si beneficia materialmente a los seres humanos (Soulé, 2014).
+
+![***Figura 2.*** Borreguiles en la base del pico Veleta, Sierra Nevada](C:\Users\marti\OneDrive\Documentos\MASTER\Ecoinformatica\RMarkdown\P1140866.jpg)
+
+***Tabla 1.*** Puntos clave del análisis DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades), desde una perspectiva intrínseca de la conservación, para los borreguiles de Sierra Nevada.
+
+| **Análisis DAFO** | Puntos débiles | Puntos fuertes |
+| ------------ | ------------ | ------------ |
+| **Análisis externo** | **Debilidades.** - Necesidad de realizar valoraciones funcionales que complementen su mera singularidad. - Localizaciones remotas, muy valoradas en el marco de la investigación, pero con poco impacto social. - Privación de los servicios ecosistémicos que los borreguiles ofrecen a poblaciones locales debido a su protección.    | **Amenazas.** - Falta de financiación privada para su estudio. - Degradación gradual de los borreguiles a causa del cambio global y su “falta” de funcionalidad practica para la sociedad. - Alteración del entorno por parte de las poblaciones locales por falta de una debida gestión de estos espacios. |
+| **Análisis interno**    | **Fortalezas.** - Prevención de la destrucción de los borreguiles antes de la valoración de los servicios que ofrecen a la ciudadanía. - Suponen laboratorios naturales para el estudio del impacto del cambio global en los ecosistemas. - Presentan una enorme biodiversidad de la que aun queda mucho por conocer. | **Oportunidades.** - Nichos de biodiversidad protegida que puede ser fuente de conocimiento. - La protección ante el desconocimiento de los valores intrínsecos de las especies que componen los borreguiles es ejemplo de conciencia social por la conservación de los ecosistemas. - La degradación que sufren estos entornos debida al cambio global favorece la inversión pública en investigación. |
+
+### **VISIÓN INSTRUMENTAL**
+
+Como ya ha sido mencionado, la principal herramienta en la actualidad para proteger los ecosistemas y los servicios que pueden ofrecernos son los espacios protegidos (Alkan et al. 2009). Sin embargo, la eficacia en la gestión de estos parajes no solo está determinada por su estado de conservación, sino por la percepción social de las comunidades locales, con un fuerte arraigo al espacio (Pelegrina, 2017).
+
+Los esfuerzos conservacionistas con una visión puramente intrínseca deben estar respaldados por un enfoque más fuerte en sintetizar y expandir la base de evidencia que pueda identificar qué funciona y qué falla en la conservación para que podamos pasar de debates filosóficos a evaluaciones rigurosas de la efectividad de las acciones (Tallis & Lubchenco, 2014).
+
+La estrategia de movilizar a los locales de sus tierras a veces ha resultado contraproducente para la conservación, puesto que las actividades humanas como los incendios, el pastoreo del ganado o la caza fueron responsables de mantener el valor de conservación del paisaje (Kingman, 2007; Palomo et al., 2014).
+
+Aunque las áreas protegidas seguirán siendo una parte importante de la conservación, los futuros esfuerzos, por necesidad, se centrarán cada vez más en las áreas que han sido y que probablemente seguirán siendo afectadas por las actividades humanas directas (Palomo et al., 2014), dejando de lado ecosistemas remotos o poco conocidos por la ciudadanía, como los borreguiles. Además, ante el cambio climático y la introducción de especies exóticas invasoras, las áreas protegidas requerirán cada vez más una intervención activa para mantener la sensación de naturaleza salvaje u otros valores de conservación deseados por la gente (Kareiva & Marvier, 2012).
+
+Todas las personas necesitan ecosistemas funcionales y no contaminados para todo, desde alimentos y materias primas, hasta medicamentos y protección contra desastres naturales. Los ecosistemas que brindan estos servicios a la humanidad son los mismos ecosistemas de los que también dependen muchas otras especies (Kareiva & Marvier, 2012), por lo que investigar, valorar y comunicar las funciones y servicios ecosistémicos que estos parajes y las especies que los componen nos pueden ofrecer, resulta una pieza clave en la lucha por la conservación de estos ecosistemas tan singulares y, en última instancia, nuestra propia supervivencia.
+
+![***Figura 3.*** Sendero de la Ruta de las Lagunas de Sierra Nevada](C:\Users\marti\OneDrive\Documentos\MASTER\Ecoinformatica\RMarkdown\P1140980.jpg)
+
+***Tabla 2.*** Puntos clave del análisis DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades), desde una perspectiva instrumental de la conservación, para los borreguiles de Sierra Nevada.
+
+| **Análisis DAFO** | Puntos débiles | Puntos fuertes |
+| ------------ | ------------ | ------------ |
+| **Análisis externo** | **Debilidades.** - Dificultad para encontrar servicios directos en los borreguiles debido a que son remotos. - Falta de información sobre procesos y servicios que ofrecen los borreguiles. - Posible falta de protección a especies poco investigadas. - Incompatibilidad actual de las acciones de conservación con las poblaciones locales. | **Amenazas.** - El cambio global puede perjudicar la supervivencia de estos delicados ecosistemas antes de que sean debidamente investigados. - El estado de protección de estas zonas pueden limitar las investigaciones. - Posibles daños ocasionados por parte de turistas o locales por falta de conocimiento sobre los borreguiles. - Encontrar una fuente económicamente explotable de los servicios que ofrecen los borreguiles podría socavar su supervivencia.    |
+| **Análisis interno** | **Fortalezas.** - Obtención de servicios ecosistémicos para la ciudadanía, desde lo público hasta lo privado. - Mayor facilidad para investigación privada debido a la posibilidad de beneficios. - Suponen laboratorios naturales para el estudio del impacto del cambio global en los ecosistemas. | **Oportunidades.** - Fuente de recursos y herramientas novedosas para el progreso humano. - Nichos de biodiversidad protegida que puede ser fuente de conocimiento. - Desarrollo económico de comunidades locales mediante su participación en las tareas de gestión de los espacios protegidos. - Fuente de inversión por parte de entidades privadas con el fin de preservar los entornos naturales para obtener beneficios económicos. |
+
+### ***BIBLIOGRAFÍA***
+
+1. Alkan, H., Korkmaz M. y Tolunary A. 2009. “Assessment of primary causing possitive or negative local perceptions on protected areas”. Journal of Environmental Engineering and Landscape Management, 17(1): 20-27. doi: 10.3846/1648-6897.2009.17.20-27
+
+2. Aspizua, R., Barea-Azcón, J. M., Bonet, F. J., Pérez Luque, A. J., & Zamora Rodríguez, R. J. (2012). Observatorio de Cambio Global Sierra Nevada: metodologías de seguimiento.
+
+3. García-Alix, A., Jiménez-Espejo, F. J., Toney, J. L., Jiménez-Moreno, G., Ramos-Román, M. J., Anderson, R. S., ... & Kuroda, J. (2017). Alpine bogs of southern Spain show human-induced environmental change superimposed on long-term natural variations. Scientific reports, 7(1), 1-12.
+
+4. Gascon, C., Brooks, T. M., Contreras-MacBeath, T., Heard, N., Konstant, W., Lamoreux, J., ... & Vié, J. C. (2015). The importance and benefits of species. Current Biology, 25(10), R431-R438.
+
+5. Guía de Identificación de Hábitats de Interés Comunitario en Andalucía. (2020). Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible. Secretaría General de Medio Ambiente, Agua y Cambio Climático.
+
+6. Kareiva, P., & Marvier, M. (2012). What is conservation science?. BioScience, 62(11), 962-969.
+
+7. Kingman, S. (2007). Áreas Protegidas y Pueblos Indígenas, Un Estudio de Caso en ECUADOR. Programa FAO/OAPN: fortalecimiento del manejo sostenible de los recursos naturales en las áreas protegidas de América Latina.
+
+8. Kohler, T., Giger, M., Hurni, H., Ott, C., Wiesmann, U., von Dach, S. W., & Maselli, D. (2010). Mountains and climate change: a global concern. Mountain Research and Development, 30(1), 53-55.
+
+9. Palomo, I., Montes, C., Martin-Lopez, B., González, J. A., Garcia-Llorente, M., Alcorlo, P., & Mora, M. R. G. (2014). Incorporating the social–ecological approach in protected areas in the Anthropocene. BioScience, 64(3), 181-191.
+
+10. Pelegrina López, A. (2017). El componente social en espacios protegidos: Contribución al estudo de la percepción de la población local en el espacio natural Sierra Nevada.
+
+11. Pérez-Luque, A. J., Bonet, F. J., Rodríguez, R. Z., Barea-Azcón, J. M., Cantón, R. A., & Sánchez-Gutiérrez, F. J. (2016). Señales del cambio global en el sitio LTER-Sierra Nevada. Ecosistemas, 25(1), 65-71.
+
+12. Santos, C. (2006). Los servicios ambientales como estrategia de desplazamiento. Red de Ecologia Social Amigos de la Tierra, Montevideo (Uruguay).
+
+13. Soulé, M. (2014). The “new conservation”. Keeping the wild: Against the domestication of earth, 66-80.
+
+14. Tallis, H., & Lubchenco, J. (2014). Working together: a call for inclusive conservation. Nature, 515(7525), 27-28.
+15. UICN. (2019). Informe anual 2019 de la Unión Internacional Para La Conservación De La Naturaleza.
